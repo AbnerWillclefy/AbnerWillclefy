@@ -1,16 +1,11 @@
 ### Hi, im Abner
 
-const user="Abner" {
-  name ="Abner Willclefy
-  age ="18y"
-  interests ="html, css, javascript"
-  pronouns ="he/him"
-  nationlity ="brazilian"
-                    }
-<script>
-  var = "Mengão"
-  document.alert(var + "não é time");
-</script>
-  
-  
+var = Abner
+information() {
+  name = Abner Willclefy;
+  age = 18;
+  nationality = brazilian;
+  pronouns[] = he, him;
+}
 
+coding[] = {html, css, javascript}
