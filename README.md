@@ -10,7 +10,7 @@
 - :thinking: &nbsp; Explorando novas tecnologias e sempre buscando aprimorar meus conhecimentos.
 - :book: &nbsp; Aprendendo mais sobre ReactJS.
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Minhas Habilidades </h3>
 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
