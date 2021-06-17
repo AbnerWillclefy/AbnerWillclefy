@@ -20,8 +20,3 @@
 ### 📫&nbsp; Onde me encontrar
 
 💼&nbsp; [Linkedin](https://www.linkedin.com/in/abnerwillclefy/) <br>
-
----
-
-## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abnerwillclefy&show_icons=true)
