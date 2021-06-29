@@ -4,7 +4,7 @@
 
 <h3> 🦸‍♂️ &nbsp;Sobre mim </h3>
 
-<p>Olá 👋, meu nome é Abner, conheci o mundo da programação através do grupo de robótica que participei durante o ensino médio. Após o termino do meu curso, descobri a área de desenvolvimento e me reapaixonei pela programação. Estou sempre buscando aprender e alcançar o próximo nível :rocket:</p>
+<p>Olá 👋, meu nome é Abner, conheci o mundo da programação através do grupo de robótica que participei durante o ensino médio. Após o termino do meu curso, descobri a área de desenvolvimento e me apaixonei novamente pela programação. Estou sempre buscando aprender e alcançar o próximo nível :rocket:</p>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - ⏳ &nbsp; 18 anos.
