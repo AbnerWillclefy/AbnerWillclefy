@@ -2,17 +2,19 @@
 
 # Abner Willclefy :wave: &nbsp;
 
-<h3> 🦸‍♂️ &nbsp;Sobre mim </h3>
+<h3> 🦸‍♂️ &nbsp;About me </h3>
 
-<p>Olá 👋, meu nome é Abner, conheci o mundo da programação através do grupo de robótica que participei durante o ensino médio. Após o termino do meu curso, descobri a área de desenvolvimento e me apaixonei novamente pela programação. Estou sempre buscando aprender e alcançar o próximo nível :rocket:</p>
+<p>Hello :wave:, my name is Abner, i am a Front-end developer and this is my Github :rocket:</p>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- ⏳ &nbsp; 18 anos.
-- 💻 &nbsp; Desenvolvedor Front-End.
-- :thinking: &nbsp; Explorando novas tecnologias e sempre buscando aprimorar meus conhecimentos.
-- :book: &nbsp; Atualmente estudando ReactJs.
+- ⏳ &nbsp; 18 years.
+- 💻 &nbsp; Front-end Developer.
+- :thinking: &nbsp; Exploring new techs and always learning.
+- :book: &nbsp; Currently studying:
+  - ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?&style=flat&logo=typescript)
+  - ![Next](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
 
-<h3> :rocket: &nbsp;Minhas Habilidades </h3>
+<h3> :rocket: &nbsp;My skills </h3>
 
 - 🛠 &nbsp;
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=React)
@@ -25,7 +27,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 
-### 📫&nbsp; Onde me encontrar
+### 📫&nbsp; Where to find me
 
 [![Linkedin Badge](https://img.shields.io/badge/-AbnerWillclefy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-willclefy/)](https://www.linkedin.com/in/abner-willclefy/)
 
