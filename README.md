@@ -4,7 +4,7 @@
 
 <h3> 🦸‍♂️ &nbsp;About me </h3>
 
-<p>Hello :wave:, my name is Abner, i am a Front-end developer with interest in backend, and this is my Github :rocket: </p>
+<p>Hello :wave:, my name is Abner, i am a Frontend developer and this is my Github :rocket: </p>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
 - ⏳ &nbsp; 19 years.
