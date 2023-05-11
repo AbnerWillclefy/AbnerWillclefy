@@ -7,15 +7,9 @@
 <p>Hello :wave:, my name is Abner, i am a Frontend developer and this is my Github :rocket: </p>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- ⏳ &nbsp; 19 years.
+- ⏳ &nbsp; 20 years.
 - 💻 &nbsp; Front-end Developer.
 - :thinking: &nbsp; Exploring new techs and always learning.
-- :book: &nbsp; Currently studying:
-  - ![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-  - ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-  - ![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-  - ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
 <h3> :rocket: &nbsp;My skills </h3>
 
