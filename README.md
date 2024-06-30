@@ -4,27 +4,22 @@
 
 <h3> 🦸‍♂️ &nbsp;About me </h3>
 
-<p>Hello :wave:, my name is Abner, i am a Frontend developer and this is my Github :rocket: </p>
+<p>Hello :wave:, my name is Abner, i am a Frontend Engineer and this is my Github :rocket: </p>
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
-- ⏳ &nbsp; 20 years.
-- 💻 &nbsp; Front-end Developer.
+- ⏳ &nbsp; 21 years.
+- 💻 &nbsp; Front-end Engineer.
 - :thinking: &nbsp; Exploring new techs and always learning.
 
 <h3> :rocket: &nbsp;My skills </h3>
 
-- 🛠 &nbsp;
-  ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![Next](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- 🌐 &nbsp;
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![SASS](	https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+- Frontend Technologies: React, AngularJS, TypeScript, Material UI, Storybook, Redux, Next.js, Styled Components, Chakra UI, React Query, Zustand
+- Backend Technologies: Node.js, Express, Fastify, MongoDB, RabbitMQ
+- Testing Tools: Jest, React Testing Library (RTL)
+- DevOps Tools: Docker, Kubernetes, GitHub Actions, Azure DevOps, ArgoCD, New Relic
+- Concepts: TDD, SOLID, Clean Architecture, Clean Code, SPA, SSR, SSG
+- Other Tools: Figma, Segment, SonarCloud
+- Soft Skills: Team Collaboration, Problem Solving, Leadership, Adaptability, Communication
 
 ### 📫&nbsp; Where to find me
 
