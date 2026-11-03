@@ -1,28 +1,38 @@
-![](https://komarev.com/ghpvc/?username=AbnerWillclefy&color=006bed)
+<div align="center">
 
-# Abner Willclefy :wave: &nbsp;
+# Hi, I'm Abner 👋
 
-<h3> 🦸‍♂️ &nbsp;About me </h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1200&color=2F81F7&center=true&vCenter=true&width=480&lines=Senior+Software+Engineer;Full-Stack+%26+Applied+AI" alt="Senior Software Engineer. Full-Stack & Applied AI." />
 
-<p>Hello :wave:, my name is Abner, i am a Frontend Engineer and this is my Github :rocket: </p>
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+</div>
 
-- ⏳ &nbsp; 21 years.
-- 💻 &nbsp; Front-end Engineer.
-- :thinking: &nbsp; Exploring new techs and always learning.
+Full-stack engineer with nearly 6 years building SaaS products for US and global companies, remote from Fortaleza, Brazil. I own features end to end: domain modeling, APIs, UI, and the pipelines that ship them.
 
-<h3> :rocket: &nbsp;My skills </h3>
+Lately I'm focused on applied AI and agentic workflows, using Claude Code to go from ticket to tested pull request with TDD.
 
-- Frontend Technologies: React, AngularJS, TypeScript, Material UI, Storybook, Redux, Next.js, Styled Components, Chakra UI, React Query, Zustand
-- Backend Technologies: Node.js, Express, Fastify, MongoDB, RabbitMQ
-- Testing Tools: Jest, React Testing Library (RTL)
-- DevOps Tools: Docker, Kubernetes, GitHub Actions, Azure DevOps, ArgoCD, New Relic
-- Concepts: TDD, SOLID, Clean Architecture, Clean Code, SPA, SSR, SSG
-- Other Tools: Figma, Segment, SonarCloud
-- Soft Skills: Team Collaboration, Problem Solving, Leadership, Adaptability, Communication
+I care about correct domain logic, reliable systems, and tests that catch real bugs.
 
-### 📫&nbsp; Where to find me
+### 🏠 Homeowner
 
-[![Linkedin Badge](https://img.shields.io/badge/-AbnerWillclefy-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abner-willclefy/)](https://www.linkedin.com/in/abner-willclefy/)
+[**Homeowner**](https://github.com/AbnerWillclefy/Homeowner) is a household planner where an LLM plans each day behind a deterministic referee, with evals against a baseline and no personal data in prompts. Go, React PWA, AWS and Terraform, built ticket to PR by an agentic pipeline.
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abnerwillclefy&layout=compact&theme=radical" alt="My Github Stats">
+### 🧰 Stack
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=claude&logoColor=white)
+
+### 📫 Find me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-abnerwillclefy-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/abnerwillclefy/)
